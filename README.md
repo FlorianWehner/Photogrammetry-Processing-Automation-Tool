@@ -8,6 +8,13 @@ This Python script provides automation for various tasks related to photogrammet
 - **Metashape Integration**: Automates the setup and execution of Metashape workflows based on user-defined parameters.
 - **Project Folder Creation**: Generates project folder structures and copies necessary template files.
 
+## Demo Video
+
+[![Video Demo](https://img.youtube.com/vi/Jf9rVldZUv0/0.jpg)](https://www.youtube.com/watch?v=Jf9rVldZUv0)
+
+
+
+
 ## Directory Structure
 
 project/
@@ -21,6 +28,8 @@ project/
 ├── ui_mainwindow.ui  # Generated UI file (from Qt Designer)
 
 ├── ui_mainwindow.py  # UI design file 
+
+├── resources.py      # resources for UI 
 
 ├── README.md         # Project documentation
 
