@@ -11,15 +11,24 @@ This Python script provides automation for various tasks related to photogrammet
 ## Directory Structure
 
 project/
+
 │
 ├── main.py           # Main script file
+
 ├── metashape.py      # Main script file
+
 ├── ui_mainwindow.py  # Generated UI file (from Qt Designer)
+
 ├── ui_mainwindow.ui  # UI design file (Qt Designer XML)
+
 ├── README.md         # Project documentation
+
 ├── LICENSE           # License file (if applicable)
+
 ├── requirements.txt  # Python dependencies
+
 ├── .gitignore        # Git ignore file
+
 └─── other files and folders
 
 
