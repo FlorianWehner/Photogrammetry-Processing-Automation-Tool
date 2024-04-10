@@ -13,13 +13,14 @@ This Python script provides automation for various tasks related to photogrammet
 project/
 
 │
+
 ├── main.py           # Main script file
 
 ├── metashape.py      # Main script file
 
-├── ui_mainwindow.py  # Generated UI file (from Qt Designer)
+├── ui_mainwindow.ui  # Generated UI file (from Qt Designer)
 
-├── ui_mainwindow.ui  # UI design file (Qt Designer XML)
+├── ui_mainwindow.py  # UI design file 
 
 ├── README.md         # Project documentation
 
