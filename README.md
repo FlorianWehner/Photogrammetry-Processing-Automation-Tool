@@ -24,7 +24,9 @@ This code snippet defines a custom class MyMainWindow inheriting from QMainWindo
 
 **Graphical User Interface Designed Using Qt Framework**
 
-The graphical user interface (GUI) displayed above is a testament to my extensive experience with the Qt framework, showcasing my ability to design and develop application interfaces efficiently. This project was created using Qt Designer and PySide 6, demonstrating my proficiency in quickly prototyping and iterating GUI designs. In addition to my expertise in Qt for application interface development, this project highlights my proven ability to create mockups and rapid prototypes for automation solutions.
+The graphical user interface (GUI) displayed above underscores my extensive experience with the Qt framework, demonstrating my ability to design and develop application interfaces efficiently. This project was created using Qt Designer and PySide 6, demonstrating my proficiency in quickly prototyping and iterating GUI designs. In addition to my expertise in Qt for application interface development, this project highlights my proven ability to create mockups and rapid prototypes for automation solutions.
+
+
 
 
       ### Python Code Example
