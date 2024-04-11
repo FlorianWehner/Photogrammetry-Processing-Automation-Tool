@@ -1,6 +1,11 @@
 # Photogrammetry-Processing-Automation-Tool
 This Python script provides automation for various tasks related to photogrammetry. The script utilizes Pyside and Qt Designer for the graphical user interface. The GUI enables basic image processing for photogrammetry and exposes some of Metashapes most commonly used parameters for scan processing. 
 
+## Demo Video
+
+[![Video Demo](https://img.youtube.com/vi/Jf9rVldZUv0/0.jpg)](https://www.youtube.com/watch?v=Jf9rVldZUv0)
+
+
 
       ### Python Code Example
       
@@ -126,9 +131,6 @@ The provided code snippet exemplifies my commitment to writing clean, readable, 
 - **Metashape Integration**: Automates the setup and execution of Metashape workflows based on user-defined parameters.
 - **Project Folder Creation**: Generates project folder structures and copies necessary template files.
 
-## Demo Video
-
-[![Video Demo](https://img.youtube.com/vi/Jf9rVldZUv0/0.jpg)](https://www.youtube.com/watch?v=Jf9rVldZUv0)
 
 
 
